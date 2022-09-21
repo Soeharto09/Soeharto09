@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soeharto09
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning R and R packages for statistical analysis
-- 💞️ I’m looking to collaborate on scientific paer
+- 💞️ I’m looking to collaborate on scientific paper
 - 📫 How to reach me via email:soehartofisika@gmail.com
 
 <!---
